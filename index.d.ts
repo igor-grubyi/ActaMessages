@@ -5,6 +5,6 @@ declare module 'actamessages' {
         GROUP_SELECTED: string,
         STUDENTS_LOADED: string,
         AUTHENTICATE_USER: string,
-        AUTHENTICATION_FAILED: boolean
+        AUTHENTICATION_FAILED: string
     } 
 };
